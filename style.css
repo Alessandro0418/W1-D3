@@ -1,0 +1,19 @@
+main {
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#image1 {
+  width: 14em;
+}
+
+#head-div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.paragrafo-yellow {
+  color: rgb(255, 174, 0);
+}
