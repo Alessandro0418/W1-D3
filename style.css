@@ -1,17 +1,25 @@
+header {
+  text-align: center;
+}
+
+h5 {
+  background-color: rgba(236, 236, 113, 0.24);
+  padding-top: 1.5em;
+  padding-bottom: 1.5em;
+}
+
 main {
   width: 50%;
   margin-left: auto;
   margin-right: auto;
 }
 
-#image1 {
-  width: 14em;
+main img {
+  width: 100%;
 }
 
-#head-div {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
+#image1 {
+  width: 200px;
 }
 
 .paragrafo-yellow {
